@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/946782/147704579-4d1b65c0-2204-4ac6-b7ca-153057bd1bef.png)
+![image](https://user-images.githubusercontent.com/946782/147704733-f6aa3fdd-a336-4782-88c5-f24847bba5f3.png)
 
 # Script for setting static IPs to Shelly devices
 
