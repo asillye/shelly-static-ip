@@ -43,7 +43,7 @@ def detectShelly(ipLast, outputFile):
         ip = ipAddressBase + str(ipLast)
         logging.debug('Checking for Shelly at IP %s...', ip)
         url = "http://" + ip + "/settings"
-        response = requests.get(url, timeout=5)
+        response = requests.get(url, timeout=10)
 
         if response.status_code != 200:
             detectDevice(ipLast)
