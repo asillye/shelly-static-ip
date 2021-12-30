@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/946782/147704733-f6aa3fdd-a336-4782-88c5-f24847bba5f3.png)
+
 # Script for setting static IPs to Shelly devices
 
 Reconfigure masses of Shelly devices to static IP. This is useful, if you want to set up your Shelly (https://shelly.cloud/) devices to use static IP addresses on your home network - so next time, if you look for them, they will be on the same address.
